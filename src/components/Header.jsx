@@ -14,11 +14,11 @@ const Header = () => {
                     <div className="w-[40%] flex gap-x-10">
                         <div className="flex gap-x-2 items-center text-[16px] font-jsans">
                             <CiMail />
-                            <h3>sahedrahmanshakil@gmail.com</h3>
+                            <h3>mashrafikhan1000@gmail.com</h3>
                         </div>
                         <div className="flex gap-x-2 items-center text-[16px] font-jsans">
                             <MdOutlineWifiCalling3 />
-                            <h3>+880 1609-302239</h3>
+                            <h3>+880 1600233854</h3>
                         </div>
                     </div>
                     <div className="w-[60%] flex justify-end text-end font-jsans">
